@@ -1,8 +1,7 @@
-# Association Rule Mining Analysis in SQL Project 
+# Project Title: Association Rule Mining Analysis in SQL Project 
 ## Project overview:
-Project Title: Association Rule Analysis
 
-Database: pizza_data.xlxs
+Dataset: pizza_data.xlxs
 
 Association rules  are a powerful tool in data mining and market basket analysis, enabling businesses to uncover hidden relationships between products, behaviors, or events in transaction data, enabling businesses to identify patterns that may not be immediately obvious. By revealing which products are often bought together, these rules help businesses boost sales through cross-selling and up-selling opportunities. They also enhance the customer experience by personalizing product recommendations. Additionally, association rules optimize inventory management by providing insights into product co-occurrence, allowing for better product placement and stock management. Overall, association rules empower businesses to make data-driven decisions that improve marketing strategies, enhance customer engagement, and reduce costs. 
 
