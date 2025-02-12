@@ -1,4 +1,4 @@
-# Project Title: Association Rule Mining Analysis in SQL Project 
+# Project Title: Association Rule Mining in SQL: Analyzing Pizza Order Patterns
 ## Project Overview:
 
 Dataset: pizza_data.xlxs
