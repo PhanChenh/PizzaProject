@@ -1,5 +1,5 @@
 # Project Title: Association Rule Mining Analysis in SQL Project 
-## Project overview:
+## Project Overview:
 
 Dataset: pizza_data.xlxs
 
@@ -8,7 +8,7 @@ Association rules  are a powerful tool in data mining and market basket analysis
 ## Objectives:
 This dataset has been cleaned and prepared for use in a Power BI project. To enhance our recommendation system in Power BI, we apply association rule mining to extract meaningful product relationships.
 
-## Project structure:
+## Project Structure:
 1. Data Preparation – Ensure the dataset is formatted for association rule mining.
 2. Identify Frequent Itemsets – Extract commonly purchased item combinations.
 3. Calculate Support, Confidence, and Lift – Measure the strength of associations.
